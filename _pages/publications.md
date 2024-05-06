@@ -89,9 +89,10 @@ author_profile: true
 
 - 王英, 左祥麟, 左万利, 王鑫. 基于本体的Deep Web查询接口集成. 计算机研究与发展, 2012, 49(11): 2383-2394. (CCF A类中文)
 
+<!--
+{% include base_path %}
 
-#{% include base_path %}
-
-#{% for post in site.publications reversed %}
-  #{% include archive-single.html %}
-#{% endfor %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %} 
+-->
