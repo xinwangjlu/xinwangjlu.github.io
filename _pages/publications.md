@@ -11,17 +11,17 @@ author_profile: true
 
 ## 2024
 
-- Rui Miao, Kaixiong Zhou, Yili Wang, Ninghao Liu, Ying Wang, Xin Wang*. Rethinking Independent Cross-Entropy Loss For Graph-Structured Data. ICML, 2024. (CCF-A类，通讯作者)
+- Rui Miao, Kaixiong Zhou, Yili Wang, Ninghao Liu, Ying Wang, **Xin Wang***. Rethinking Independent Cross-Entropy Loss For Graph-Structured Data. ICML, 2024. (CCF-A)
 
-- Yingji Li, Mengnan Du, Rui Song, Xin Wang, Mingchen Sun, Ying Wang. Mitigating Social Biases of Pre-trained Language Models via Contrastive Self-Debiasing with Double Data Augmentation. Artificial Intellignece, 2024. (CCF-A类)
+- Yingji Li, Mengnan Du, Rui Song, **Xin Wang**, Mingchen Sun, Ying Wang. Mitigating Social Biases of Pre-trained Language Models via Contrastive Self-Debiasing with Double Data Augmentation. Artificial Intellignece, 2024. (CCF-A)
 
-- Yiwei Dai, Mingchen Sun, Xin Wang*. Pre-Training Graph Neural Networks via Weighted Meta Learning. IJCNN, 2024. (CCF-C类，通讯作者)
+- Yiwei Dai, Mingchen Sun, **Xin Wang***. Pre-Training Graph Neural Networks via Weighted Meta Learning. IJCNN, 2024. (CCF-C)
 
-- Xin Juan, Kaixiong Zhou, Ninghao Liu, Tianlong Chen, Xin Wang*. Molecular Data Programming: Towards Molecule Pseudo-labeling with Systematic Weak Supervision. CVPR, 2024. (CCF-A类，通讯作者)
+- Xin Juan, Kaixiong Zhou, Ninghao Liu, Tianlong Chen, Xin Wang*. Molecular Data Programming: Towards Molecule Pseudo-labeling with Systematic Weak Supervision. CVPR, 2024. (CCF-A)
 
-- Yili Wang, Kaixiong Zhou, Ninghao Liu, Ying Wang, Xin Wang*. Efficient Sharpness-Aware Minimization for Molecular Graph Transformer Models. ICLR, 2024. (清华A类，通讯作者) 
+- Yili Wang, Kaixiong Zhou, Ninghao Liu, Ying Wang, Xin Wang*. Efficient Sharpness-Aware Minimization for Molecular Graph Transformer Models. ICLR, 2024. (清华A类) 
 
-- Zihao Chen, Ying Wang,  Fuyuan Ma, Hao Yuanhao, Xin Wang. GPL-GNN: Graph Prompt Learning for Graph Neural Network. Knowledge-based Systems, 2024. (中科院一区)
+- Zihao Chen, Ying Wang,  Fuyuan Ma, Hao Yuanhao, Xin Wang. GPL-GNN: Graph Prompt Learning for Graph Neural Network. Knowledge-based Systems, 2024. (Q1)
 
 ## 2023
 
