@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=Eh9n5VAAAAAJ">my Google Scholar profile</a>.</div>
 {% endif %}
 
-2024
+### 2024
 
 Rui Miao, Kaixiong Zhou, Yili Wang, Ninghao Liu, Ying Wang, Xin Wang*. Rethinking Independent Cross-Entropy Loss For Graph-Structured Data. ICML, 2024. (CCF-A类，通讯作者)
 
@@ -23,7 +23,7 @@ Yili Wang, Kaixiong Zhou, Ninghao Liu, Ying Wang, Xin Wang*. Efficient Sharpness
 
 Zihao Chen, Ying Wang,  Fuyuan Ma, Hao Yuanhao, Xin Wang. GPL-GNN: Graph Prompt Learning for Graph Neural Network. Knowledge-based Systems, 2024. (中科院一区)
 
-2023
+### 2023
 
 Mingchen Sun, Mengduo Yang, Yingji Li, Dongmei Mu, Xin Wang, Ying Wang. Structural-aware Motif-based Prompt Tuning for Graph Clustering. Information Sciences, 2023. (中科院一区)
 
@@ -37,7 +37,7 @@ Yingji Li, Mengnan Du, Xin Wang*, Ying Wang*. Prompt Tuning Pushes Farther, Cont
 
 Xin Juan, Fengfeng Zhou, Wentao Wang, Wei Jin, Jiliang Tang, Xin Wang*. INS-GNN: Improving graph imbalance learning with self-supervision. Information Sciences, 2023. (中科院1区, CCF-B类, 通讯作者)
 
-2022
+### 2022
 
 Yili Wang, Kaixiong Zhou, Rui Miao, Ninghao Liu, Xin Wang*. AdaGCL: Adaptive Subgraph Contrastive Learning to Generalize Large-scale Graph Training. In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM), 2022. (CCF-B类，通讯作者)
 
@@ -51,7 +51,7 @@ Yintao Yang, Rui Miao, Yili Wang, Xin Wang*. Contrastive Graph Convolutional Net
 
 Song Xianduoa#, Wang Xin#, Song Yuyuana, Zuo Xianglin, Wang Ying*. Hierarchical Recurrent Neural Networks for Graph Generation. Information Sciences, 589: 250-264, 2022. (中科院1区, CCF- B类, 共同一作)
 
-2021
+### 2021
 
 Xin Juan, Meixin Peng, Xin Wang*. Exploring Self-training for Imbalanced Node Classiﬁcation. International Conference on Neural Information Processing (ICONIP), 2021: 28-36. (CCF-C类, 通讯作者)
 
@@ -90,8 +90,8 @@ Xin Wang, Wanli Zuo, Ying Wang. A novel approach to word sense disambiguation ba
 王英, 左祥麟, 左万利, 王鑫. 基于本体的Deep Web查询接口集成. 计算机研究与发展, 2012, 49(11): 2383-2394. (CCF A类中文)
 
 
-# {% include base_path %}
+#{% include base_path %}
 
-# {% for post in site.publications reversed %}
-  # {% include archive-single.html %}
-# {% endfor %}
+#{% for post in site.publications reversed %}
+  #{% include archive-single.html %}
+#{% endfor %}
