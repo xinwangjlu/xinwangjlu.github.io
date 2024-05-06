@@ -9,6 +9,9 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=Eh9n5VAAAAAJ">my Google Scholar profile</a>.</div>
 {% endif %}
 
+
+Rui Miao, Kaixiong Zhou, Yili Wang, Ninghao Liu, Ying Wang, Xin Wang*. Rethinking Independent Cross-Entropy Loss For Graph-Structured Data. ICML, 2024. (CCF-A类，通讯作者)
+
 Yingji Li, Mengnan Du, Rui Song, Xin Wang, Mingchen Sun, Ying Wang. Mitigating Social Biases of Pre-trained Language Models via Contrastive Self-Debiasing with Double Data Augmentation. Artificial Intellignece, 2024. (CCF-A类)
 
 Yiwei Dai, Mingchen Sun, Xin Wang*. Pre-Training Graph Neural Networks via Weighted Meta Learning. IJCNN, 2024. (CCF-C类，通讯作者)
