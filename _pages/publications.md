@@ -33,7 +33,7 @@ author_profile: true
 
 - Hengrui Gu, **Xin Wang***. LAGCL: Towards Stable and Automated Graph Contrastive Learning. ADMA, 2023. (CCF-C)
 
--Yingji Li, Mengnan Du, **Xin Wang***, Ying Wang*. Prompt Tuning Pushes Farther, Contrastive Learning Pulls Closer: A Two-Stage Approach to Mitigate Social Biases. ACL Main Conference, 2023. (CCF-A)
+- Yingji Li, Mengnan Du, **Xin Wang***, Ying Wang*. Prompt Tuning Pushes Farther, Contrastive Learning Pulls Closer: A Two-Stage Approach to Mitigate Social Biases. ACL Main Conference, 2023. (CCF-A)
 
 - Xin Juan, Fengfeng Zhou, Wentao Wang, Wei Jin, Jiliang Tang, **Xin Wang***. INS-GNN: Improving graph imbalance learning with self-supervision. Information Sciences, 2023. (Q1，CCF-B)
 
