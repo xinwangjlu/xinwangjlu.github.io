@@ -11,6 +11,10 @@ author_profile: true
 
 ## 2024
 
+- Hengrui Gu, Kaixiong Zhou, Xiaotian Han, Ninghao Liu, Ruobing Wang, **Xin Wang***. PokeMQA: Programmable knowledge editingfor Multi-hop Question Answering. ACL Main Conference, 2024. (CCF-A)
+
+- Yingji Li, Mengnan Du, Rui Song, **Xin Wang**, Ying Wang. Data-Centric Explainable Debiasing for Improving Fairness in Pre-trained Language Models. ACL Findings, 2024. (CCF-A) 
+  
 - Rui Miao, Kaixiong Zhou, Yili Wang, Ninghao Liu, Ying Wang, **Xin Wang***. Rethinking Independent Cross-Entropy Loss For Graph-Structured Data. ICML, 2024. (CCF-A)
 
 - Yingji Li, Mengnan Du, Rui Song, **Xin Wang**, Mingchen Sun, Ying Wang. Mitigating Social Biases of Pre-trained Language Models via Contrastive Self-Debiasing with Double Data Augmentation. Artificial Intellignece, 2024. (CCF-A)
