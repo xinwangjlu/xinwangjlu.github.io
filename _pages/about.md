@@ -25,12 +25,7 @@ News
 6. 2024-02: One paper accepted by CVPR 2024
 7. 2024-01: One paper accepted by ICLR 2024
 
-Ongoing Research Projects
-======
-1. ******
-1. ******
-1. ******
-1. ******
+
 
 
 
