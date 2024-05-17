@@ -23,7 +23,7 @@ author_profile: true
 
 - Xin Juan, Kaixiong Zhou, Ninghao Liu, Tianlong Chen, **Xin Wang***. Molecular Data Programming: Towards Molecule Pseudo-labeling with Systematic Weak Supervision. CVPR, 2024. (CCF-A)
 
-- Yili Wang, Kaixiong Zhou, Ninghao Liu, Ying Wang, **Xin Wang***. Efficient Sharpness-Aware Minimization for Molecular Graph Transformer Models. ICLR, 2024. (清华A类) 
+- Yili Wang, Kaixiong Zhou, Ninghao Liu, Ying Wang, **Xin Wang***. Efficient Sharpness-Aware Minimization for Molecular Graph Transformer Models. ICLR, 2024. (Tsinghua University CS-A) 
 
 - Zihao Chen, Ying Wang,  Fuyuan Ma, Hao Yuanhao, **Xin Wang***. GPL-GNN: Graph Prompt Learning for Graph Neural Network. Knowledge-based Systems, 2024. (Q1)
 
