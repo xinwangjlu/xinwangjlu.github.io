@@ -9,10 +9,11 @@ redirect_from:
 
 **********
 
-My research interests lie in the broad area of ******
-
+I am an Associate Professor in School of Artificial Intelligence at Jilin University. My research interests lie in the general area of Artifiicial Intelligence, Machine Learning and Data ming. Recently, with my students and collaborators, we focus on trustworthy graph neural networks, out-of-distribution generalization of graph data, knowledge editing and fairness in large language models.
 
 Emails: xinwang at jlu.edu.cn, xinwangjlu at gmail.com
+
+I am always looking for self-motivated students. Please feel free to drop me an email xinwang@jlu.edu.cn together with resume and transcripts if you are interested.
 
 News
 ======
