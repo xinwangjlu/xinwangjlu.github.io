@@ -25,7 +25,7 @@ author_profile: true
 
 - Yili Wang, Kaixiong Zhou, Ninghao Liu, Ying Wang, **Xin Wang***. Efficient Sharpness-Aware Minimization for Molecular Graph Transformer Models. ICLR, 2024. (Tsinghua University CS-A) 
 
-- Zihao Chen, Ying Wang,  Fuyuan Ma, Hao Yuanhao, **Xin Wang***. GPL-GNN: Graph Prompt Learning for Graph Neural Network. Knowledge-based Systems, 2024. (Q1)
+- Zihao Chen, Ying Wang,  Fuyuan Ma, Hao Yuanhao, **Xin Wang**. GPL-GNN: Graph Prompt Learning for Graph Neural Network. Knowledge-based Systems, 2024. (Q1)
 
 ## 2023
 
