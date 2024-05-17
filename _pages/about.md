@@ -33,9 +33,6 @@ Ongoing Research Projects
 1. ******
 
 
-# Selected Recent Publications
-# ======
-# 1. ******
 
 
 
