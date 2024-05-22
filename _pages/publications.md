@@ -11,6 +11,8 @@ author_profile: true
 
 ## 2024
 
+- Xu Shen, Yili Wang, Kaixiong Zhou, Shirui Pan, **Xin Wang***. Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models. KDD, 2024. (CCF-A)
+
 - Hengrui Gu, Kaixiong Zhou, Xiaotian Han, Ninghao Liu, Ruobing Wang, **Xin Wang***. PokeMQA: Programmable knowledge editingfor Multi-hop Question Answering. ACL Main Conference, 2024. (CCF-A)
 
 - Yingji Li, Mengnan Du, Rui Song, **Xin Wang**, Ying Wang. Data-Centric Explainable Debiasing for Improving Fairness in Pre-trained Language Models. ACL Findings, 2024. (CCF-A) 
