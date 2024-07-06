@@ -10,6 +10,9 @@ author_profile: true
 {% endif %}
 
 ## 2024
+- Mingchen Sun, YingJi Li, Ying Wang, Xin Wang. Towards Domain-Aware Stable Meta Learning for Out-of-Distribution Generalization. ACM Transactions on Knowledge Discovery from Data, 2024. (CCF B)
+
+- Yili Wang, Haotian Xue, **Xin Wang***. A two-stage co-adversarial perturbation to mitigate out-of-distribution generalization of large-scale graph. Expert Systems with Applications, 2024. (Q1)
 
 - Xu Shen, Yili Wang, Kaixiong Zhou, Shirui Pan, **Xin Wang***. Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models. KDD, 2024. (CCF-A)
 
