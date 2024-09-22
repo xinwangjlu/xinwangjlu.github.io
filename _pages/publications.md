@@ -10,6 +10,14 @@ author_profile: true
 {% endif %}
 
 ## 2024
+- Yiwei Dai, Hengrui Gu, Ying Wang, **Xin Wang***. Mitigate Extrinsic Social Bias in Pre-trained Language Models via Continuous Prompts Adjustment. EMNLP Main Conference, 2024. (Tsinghua University CS-A)
+
+- Hengrui Gu, Kaixiong Zhou, Yili Wang, Ruobing Wang, **Xin Wang***. Pioneering Reliable Assessment in Text-to-Image Knowledge Editing: Leveraging a Fine-Grained Dataset and an Innovative Criterion. EMNLP Findings, 2024. (Tsinghua University CS-A)
+
+- Xin Juan, Xiao Liang, Haotian Xue, **Xin Wang***. Multi-Strategy Adaptive Data Augmentation for Graph Neural Networks. Expert Systems with Applications, 2024. (Q1)
+
+- Ruobing Wang, Xin He, Hengrui Gu, **Xin Wang***. LGCRS: LLM-Guided Representation-Enhancing for Conversational Recommender System. ICANN, 2024. (CCF C)
+
 - Mingchen Sun, YingJi Li, Ying Wang, Xin Wang. Towards Domain-Aware Stable Meta Learning for Out-of-Distribution Generalization. ACM Transactions on Knowledge Discovery from Data, 2024. (CCF B)
 
 - Yili Wang, Haotian Xue, **Xin Wang***. A two-stage co-adversarial perturbation to mitigate out-of-distribution generalization of large-scale graph. Expert Systems with Applications, 2024. (Q1)
