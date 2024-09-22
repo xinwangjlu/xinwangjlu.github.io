@@ -17,15 +17,18 @@ I am always looking for self-motivated students. Please feel free to drop me an 
 
 News
 ======
-1. 2024-07: One paper accepted by TKDD
-2. 2024-06: One paper accetped by ESWA
-3. 2024-05: One paper accepted by KDD Research Track 2024
-4. 2024-05: Two papers accepted by ACL 2024 (1 Main Conference, 1 Findings)
-5. 2024-05: One paper accepted by ICML 2024
-6. 2024-04: One paper accepted by Artificial Intelligence (Journal)
-7. 2024-03: One paper accepted by IJCNN 2024
-8. 2024-02: One paper accepted by CVPR 2024
-9. 2024-01: One paper accepted by ICLR 2024
+1. 2024-09: Two Papers accepted by EMNLP 2024 (1 Main Conference, 1 Findings)
+2. 2024-08: One paper accetped by ESWA
+3. 2024-08: One paper accetped by ICANN 2024
+4. 2024-07: One paper accepted by TKDD
+5. 2024-06: One paper accetped by ESWA
+6. 2024-05: One paper accepted by KDD Research Track 2024
+7. 2024-05: Two papers accepted by ACL 2024 (1 Main Conference, 1 Findings)
+8. 2024-05: One paper accepted by ICML 2024
+9. 2024-04: One paper accepted by Artificial Intelligence (Journal)
+10. 2024-03: One paper accepted by IJCNN 2024
+11. 2024-02: One paper accepted by CVPR 2024
+12. 2024-01: One paper accepted by ICLR 2024
 
 
 
