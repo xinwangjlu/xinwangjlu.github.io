@@ -9,6 +9,14 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=Eh9n5VAAAAAJ">my Google Scholar profile</a>.</div>
 {% endif %}
 
+## 2025
+
+- Yili Wang, Yixin Liu, Xu Shen, Chenyu Li, Rui Miao, Kaize Ding, Ying Wang, Shirui Pan, **Xin Wang***. Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection: A Benchmark. ICLR, 2025. (Tsinghua University CS-A)
+
+- Ruxue Shi, Hengrui Gu, Xu Shen, **Xin Wang***. Harnessing LLMs Explanations to Boost Surrogate Models in Tabular Data Classification. DASFAA, 2025. (CCF B)
+
+- Xin Juan, Meixin Peng, **Xin Wang***. Dynamic Self-training with Less Uncertainty for Graph Imbalance Learning. Expert Systems with Applications, 2025. (Q1)
+
 ## 2024
 - Yiwei Dai, Hengrui Gu, Ying Wang, **Xin Wang***. Mitigate Extrinsic Social Bias in Pre-trained Language Models via Continuous Prompts Adjustment. EMNLP Main Conference, 2024. (Tsinghua University CS-A)
 
