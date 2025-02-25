@@ -11,6 +11,8 @@ author_profile: true
 
 ## 2025
 
+- Xin He, Wenqi Fan, Ruobing Wang, Ying Wang, Yili Wang, Shirui Pan, **Xin Wang***. Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias. Neural Networks, 2025. (Q1)
+
 - Yili Wang, Yixin Liu, Xu Shen, Chenyu Li, Rui Miao, Kaize Ding, Ying Wang, Shirui Pan, **Xin Wang***. Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection: A Benchmark. ICLR, 2025. (Tsinghua University CS-A)
 
 - Ruxue Shi, Hengrui Gu, Xu Shen, **Xin Wang***. Harnessing LLMs Explanations to Boost Surrogate Models in Tabular Data Classification. DASFAA, 2025. (CCF B)
