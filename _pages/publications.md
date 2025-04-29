@@ -11,6 +11,10 @@ author_profile: true
 
 ## 2025
 
+- Xin He, Yili Wang, Wenqi Fan, Xu Shen, Xin Juan, Rui Miao, **Xin Wang***. Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing with Selective State Space. IJCAI, 2025. (CCF A类，通讯作者)
+
+- Ruxue Shi, Hengrui Gu, Hangting Ye, Yiwei Dai, Xu Shen, **Xin Wang***. Latte: Transfering LLMs' Latent-level Knowledge for Few-shot tabular learning. IJCAI, 2025. (CCF A类，通讯作者)
+
 - Xin He, Wenqi Fan, Ruobing Wang, Ying Wang, Yili Wang, Shirui Pan, **Xin Wang***. Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias. Neural Networks, 2025. (Q1)
 
 - Yili Wang, Yixin Liu, Xu Shen, Chenyu Li, Rui Miao, Kaize Ding, Ying Wang, Shirui Pan, **Xin Wang***. Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection: A Benchmark. ICLR, 2025. (Tsinghua University CS-A)
