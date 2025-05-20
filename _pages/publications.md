@@ -11,6 +11,8 @@ author_profile: true
 
 ## 2025
 
+- Yili Wang, Yaohua Liu, Ninghao Liu, Rui Miao, Ying Wang, **Xin Wang***. AdaGCL+: An Adaptive Subgraph Contrastive Learning Towards Tackling Topological Bias. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. (CCF A类，通讯作者)
+
 - Xin He, Yili Wang, Wenqi Fan, Xu Shen, Xin Juan, Rui Miao, **Xin Wang***. Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing with Selective State Space. IJCAI, 2025. (CCF A类，通讯作者)
 
 - Ruxue Shi, Hengrui Gu, Hangting Ye, Yiwei Dai, Xu Shen, **Xin Wang***. Latte: Transfering LLMs' Latent-level Knowledge for Few-shot tabular learning. IJCAI, 2025. (CCF A类，通讯作者)
