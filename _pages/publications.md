@@ -11,11 +11,15 @@ author_profile: true
 
 ## 2025
 
-- Yili Wang, Yaohua Liu, Ninghao Liu, Rui Miao, Ying Wang, **Xin Wang***. AdaGCL+: An Adaptive Subgraph Contrastive Learning Towards Tackling Topological Bias. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. (CCF A类，通讯作者)
+- Xu Shen, Yixin Liu, Yiwei Dai, Yili Wang, Rui Miao, Yue Tan, Shirui Pan, **Xin Wang***. Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems. EMNLP Main Conference, 2025. (Tsinghua University CS-A)
+  
+- Ruobing Wang, Qiaoyu Tan, Yili Wang, Ying Wang, **Xin Wang***. CrystalICL: Enabling In-Context Learning for Crystal Generation. EMNLP Main Conference, 2025. (Tsinghua University CS-A)
 
-- Xin He, Yili Wang, Wenqi Fan, Xu Shen, Xin Juan, Rui Miao, **Xin Wang***. Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing with Selective State Space. IJCAI, 2025. (CCF A类，通讯作者)
+- Yili Wang, Yaohua Liu, Ninghao Liu, Rui Miao, Ying Wang, **Xin Wang***. AdaGCL+: An Adaptive Subgraph Contrastive Learning Towards Tackling Topological Bias. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. (CCF A)
 
-- Ruxue Shi, Hengrui Gu, Hangting Ye, Yiwei Dai, Xu Shen, **Xin Wang***. Latte: Transfering LLMs' Latent-level Knowledge for Few-shot tabular learning. IJCAI, 2025. (CCF A类，通讯作者)
+- Xin He, Yili Wang, Wenqi Fan, Xu Shen, Xin Juan, Rui Miao, **Xin Wang***. Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing with Selective State Space. IJCAI, 2025. (CCF A)
+
+- Ruxue Shi, Hengrui Gu, Hangting Ye, Yiwei Dai, Xu Shen, **Xin Wang***. Latte: Transfering LLMs' Latent-level Knowledge for Few-shot tabular learning. IJCAI, 2025. (CCF A)
 
 - Xin He, Wenqi Fan, Ruobing Wang, Ying Wang, Yili Wang, Shirui Pan, **Xin Wang***. Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias. Neural Networks, 2025. (Q1)
 
