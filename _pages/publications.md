@@ -15,7 +15,7 @@ author_profile: true
   
 - Ruobing Wang, Qiaoyu Tan, Yili Wang, Ying Wang, **Xin Wang***. CrystalICL: Enabling In-Context Learning for Crystal Generation. EMNLP Main Conference, 2025. (Tsinghua University CS-A)
 
-- Fuyuan Ma, Yuhan Wang, Shixuan Ma, Yongzhen Li, **Xin Wang***, **Ying Wang***. DyFiLM: A Framework to Handle the Distribution Shifts on Dynamic Graphs with Hypernetworks. Neural Networks, 2025. (CCF B)
+- Fuyuan Ma, Yuhan Wang, Shixuan Ma, Yongzhen Li, **Xin Wang***, Ying Wang. DyFiLM: A Framework to Handle the Distribution Shifts on Dynamic Graphs with Hypernetworks. Neural Networks, 2025. (CCF B)
 
 - Yili Wang, Yaohua Liu, Ninghao Liu, Rui Miao, Ying Wang, **Xin Wang***. AdaGCL+: An Adaptive Subgraph Contrastive Learning Towards Tackling Topological Bias. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. (CCF A)
 
