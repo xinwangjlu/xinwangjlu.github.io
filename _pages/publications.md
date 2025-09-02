@@ -11,6 +11,10 @@ author_profile: true
 
 ## 2025
 
+- Yifei Liu, **Xin Wang***. Towards Robust and Scalable Knowledge Editing in Text-to-Image Diffusion Models. ACML, 2025. (CCF C)
+
+- Zibo Xu, **Xin Wang***. EIKEA:Enhancing In-Context Knowledge Editing by Agents. ACML, 2025. (CCF C)
+
 - Xu Shen, Yixin Liu, Yiwei Dai, Yili Wang, Rui Miao, Yue Tan, Shirui Pan, **Xin Wang***. Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems. EMNLP Main Conference, 2025. (Tsinghua University CS-A)
   
 - Ruobing Wang, Qiaoyu Tan, Yili Wang, Ying Wang, **Xin Wang***. CrystalICL: Enabling In-Context Learning for Crystal Generation. EMNLP Main Conference, 2025. (Tsinghua University CS-A)
