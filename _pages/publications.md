@@ -9,6 +9,11 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=Eh9n5VAAAAAJ">my Google Scholar profile</a>.</div>
 {% endif %}
 
+## 2026
+- Minlan Shao, Zijian Zhang, Yili Wang, Yiwei Dai, Xu Shen, **Xin Wang***. HyperD: Hybrid Periodicity Decoupling Framework for Traffic Forecasting. AAAI, 2026. (CCF A, Oral)
+
+- Xin He, Yili Wang, Yiwei Dai, **Xin Wang***. Dual Mamba for Node-Specific Representation Learning: Tackling Over-Smoothing with Selective State Space Modeling. AAAI, 2026. (CCF A, Oral)
+
 ## 2025
 
 - Yifei Liu, **Xin Wang***. Towards Robust and Scalable Knowledge Editing in Text-to-Image Diffusion Models. ACML, 2025. (CCF C)
