@@ -10,6 +10,8 @@ author_profile: true
 {% endif %}
 
 ## 2026
+- Xin He, Wenqi Fan, Yili Wang, Chengyi LIU, Rui Miao, Xin Juan, **Xin Wang***. Graph Defense Diffusion Model. KDD, 2026. (CCF A)
+
 - Minlan Shao, Zijian Zhang, Yili Wang, Yiwei Dai, Xu Shen, **Xin Wang***. HyperD: Hybrid Periodicity Decoupling Framework for Traffic Forecasting. AAAI, 2026. (CCF A, Oral)
 
 - Xin He, Yili Wang, Yiwei Dai, **Xin Wang***. Dual Mamba for Node-Specific Representation Learning: Tackling Over-Smoothing with Selective State Space Modeling. AAAI, 2026. (CCF A, Oral)
