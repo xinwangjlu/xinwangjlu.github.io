@@ -17,28 +17,29 @@ I am always looking for self-motivated students. Please feel free to drop me an 
 
 News
 ======
-1. 2025-11: Two papers accepted by AAAI 2026 (2 Oral)
-2. 2025-09: Two papers accepted by ACML 2025
-3. 2025-08: Two papers accepted by EMNLP 2025 (2 Main Conference)
-4. 2025-08: One paper accepted by Neural Networks
-5. 2025-05: One paper accepted by TPAMI 
-6. 2025-04: Two papers accepted by IJCAI 2025
-7. 2025-02: One paper accepted by Neural Networks
-8. 2025-01: One paper accepted by ICLR 2025
-9. 2025-01: One paper accepted by DASFAA 2025 (Oral Presentation)
-10. 2025-01: One paper accepted by ESWA
-11. 2024-09: Two Papers accepted by EMNLP 2024 (1 Main Conference, 1 Findings)
-12. 2024-08: One paper accepted by ESWA
-13. 2024-08: One paper accepted by ICANN 2024
-14. 2024-07: One paper accepted by TKDD
-15. 2024-06: One paper accepted by ESWA
-16. 2024-05: One paper accepted by KDD Research Track 2024
-17. 2024-05: Two papers accepted by ACL 2024 (1 Main Conference, 1 Findings)
-18. 2024-05: One paper accepted by ICML 2024
-19. 2024-04: One paper accepted by Artificial Intelligence (Journal)
-20. 2024-03: One paper accepted by IJCNN 2024
-21. 2024-02: One paper accepted by CVPR 2024
-22. 2024-01: One paper accepted by ICLR 2024
+1. 2025-11: One paper accepted by KDD 2026
+2. 2025-11: Two papers accepted by AAAI 2026 (2 Oral)
+3. 2025-09: Two papers accepted by ACML 2025
+4. 2025-08: Two papers accepted by EMNLP 2025 (2 Main Conference)
+5. 2025-08: One paper accepted by Neural Networks
+6. 2025-05: One paper accepted by TPAMI 
+7. 2025-04: Two papers accepted by IJCAI 2025
+8. 2025-02: One paper accepted by Neural Networks
+9. 2025-01: One paper accepted by ICLR 2025
+10. 2025-01: One paper accepted by DASFAA 2025 (Oral Presentation)
+11. 2025-01: One paper accepted by ESWA
+12. 2024-09: Two Papers accepted by EMNLP 2024 (1 Main Conference, 1 Findings)
+13. 2024-08: One paper accepted by ESWA
+14. 2024-08: One paper accepted by ICANN 2024
+15. 2024-07: One paper accepted by TKDD
+16. 2024-06: One paper accepted by ESWA
+17. 2024-05: One paper accepted by KDD Research Track 2024
+18. 2024-05: Two papers accepted by ACL 2024 (1 Main Conference, 1 Findings)
+19. 2024-05: One paper accepted by ICML 2024
+20. 2024-04: One paper accepted by Artificial Intelligence (Journal)
+21. 2024-03: One paper accepted by IJCNN 2024
+22. 2024-02: One paper accepted by CVPR 2024
+23. 2024-01: One paper accepted by ICLR 2024
 
 
 
