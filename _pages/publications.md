@@ -10,6 +10,8 @@ author_profile: true
 {% endif %}
 
 ## 2026
+- Xu Shen, Song Wang, Zhen Tan, Laura Yao, Xinyu Zhao, Kaidi Xu, **Xin Wang***, Tianlong Chen. FaithCoT-Bench: Benchmarking Instance-Level Faithfulness of Chain-of-Thought Reasoning. ICLR, 2026. (Tsinghua University CS-A)
+
 - Xin He, Wenqi Fan, Yili Wang, Chengyi Liu, Rui Miao, Xin Juan, **Xin Wang***. Graph Defense Diffusion Model. KDD, 2026. (CCF A)
 
 - Minlan Shao, Zijian Zhang, Yili Wang, Yiwei Dai, Xu Shen, **Xin Wang***. HyperD: Hybrid Periodicity Decoupling Framework for Traffic Forecasting. AAAI, 2026. (CCF A, Oral)
