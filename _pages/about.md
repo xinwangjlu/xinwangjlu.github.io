@@ -9,7 +9,7 @@ redirect_from:
 
 **********
 
-I am an Associate Professor in School of Artificial Intelligence at Jilin University. My research interests lie in the general area of Artifiicial Intelligence, Machine Learning and Data Mining. Recently, with my students and collaborators, we focus on trustworthy graph neural networks, out-of-distribution generalization of graph data, knowledge editing and fairness in large language models.
+I am an Associate Professor in School of Artificial Intelligence at Jilin University. My research interests lie in the general area of Artificial Intelligence, Machine Learning and Data Mining. Recently, with my students and collaborators, we focus on trustworthy graph neural networks, out-of-distribution generalization of graph data, knowledge editing and fairness in large language models.
 
 Emails: xinwang at jlu.edu.cn, xinwangjlu at gmail.com
 
