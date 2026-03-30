@@ -17,7 +17,7 @@ I am always looking for self-motivated students. Please feel free to drop me an 
 
 News
 ======
-1. 2026-03：One paper accepted by Neurocomputing
+1. 2026-02: One paper accepted by Neurocomputing
 2. 2026-01: One paper accepted by ICLR 2026
 3. 2025-11: One paper accepted by KDD 2026
 4. 2025-11: Two papers accepted by AAAI 2026 (2 Oral)
