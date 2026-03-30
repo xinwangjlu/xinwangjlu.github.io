@@ -10,7 +10,9 @@ author_profile: true
 {% endif %}
 
 ## 2026
-- Xu Shen, Song Wang, Zhen Tan, Laura Yao, Xinyu Zhao, Kaidi Xu, **Xin Wang***, Tianlong Chen. FaithCoT-Bench: Benchmarking Instance-Level Faithfulness of Chain-of-Thought Reasoning. ICLR, 2026. (Tsinghua University CS-A)
+- Xin He, Wenqi Fan, Ying Wang, Mingchen Sun, **Xin Wang***. Automatic Self-supervised Le.arning for Social Recommendations. Neurocomputing, 2026.
+
+- Xu Shen, Song Wang, Zhen Tan, Laura Yao, Xinyu Zhao, Kaidi Xu, **Xin Wang***. Tianlong Chen. FaithCoT-Bench: Benchmarking Instance-Level Faithfulness of Chain-of-Thought Reasoning. ICLR, 2026. (Tsinghua University CS-A)
 
 - Xin He, Wenqi Fan, Yili Wang, Chengyi Liu, Rui Miao, Xin Juan, **Xin Wang***. Graph Defense Diffusion Model. KDD, 2026. (CCF A)
 
