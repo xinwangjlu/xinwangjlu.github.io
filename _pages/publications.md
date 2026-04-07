@@ -10,6 +10,10 @@ author_profile: true
 {% endif %}
 
 ## 2026
+- Rui Miao, Yixin Liu, Yili Wang, Xu Shen, Yue Tan, Yiwei Dai, Shirui Pan, **Xin Wang***. BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks. ACL Main Conference, 2026.
+
+- Liangbo Ning, Yuchen Zhu, Heqing Huang, **Xin Wang**, Yi Chang, Li Qing, Wenqi Fan. When Efficiency Becomes a Vulnerability: Computational Cost Attacks on WebAgents. ACL Main Conference, 2026.
+
 - Xin He, Wenqi Fan, Ying Wang, Mingchen Sun, **Xin Wang***. Automatic Self-supervised Le.arning for Social Recommendations. Neurocomputing, 2026.
 
 - Xu Shen, Song Wang, Zhen Tan, Laura Yao, Xinyu Zhao, Kaidi Xu, **Xin Wang***. Tianlong Chen. FaithCoT-Bench: Benchmarking Instance-Level Faithfulness of Chain-of-Thought Reasoning. ICLR, 2026. (Tsinghua University CS-A)
