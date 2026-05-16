@@ -10,6 +10,8 @@ author_profile: true
 {% endif %}
 
 ## 2026
+- Ruxue Shi, Yili Wang, Mengnan Du, Hangting Ye, Yi Chang, **Xin Wang***. TAROT: Task-Adaptive Refinement of LLM-prior Graphs for Few-shot Tabular Learning. KDD, 2026.
+
 - Rui Miao, Yixin Liu, Yili Wang, Xu Shen, Yue Tan, Yiwei Dai, Shirui Pan, **Xin Wang***. BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks. ACL Main Conference, 2026.
 
 - Liangbo Ning, Yuchen Zhu, Heqing Huang, **Xin Wang**, Yi Chang, Li Qing, Wenqi Fan. When Efficiency Becomes a Vulnerability: Computational Cost Attacks on WebAgents. ACL Main Conference, 2026.
