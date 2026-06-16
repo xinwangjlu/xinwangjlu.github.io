@@ -10,6 +10,8 @@ author_profile: true
 {% endif %}
 
 ## 2026
+- Xu Shen, Yixin Liu, Yili Wang, Rui Miao, Yiwei Dai, Shirui Pan, Yi Chang, **Xin Wang***. Raising the Bar in Graph OOD Generalization: Invariant Learning Beyond Explicit Environment Modeling. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.
+
 - Yan Zhou, Yili Wang, Xu Shen, Yi Chang, **Xin Wang***. NOAOM: Near-Out-Of-Distribution Awareness Optimization Module for Robust Graph OOD Detection. Knowledge-Based Systems, 2026. 
 
 - Ruxue Shi, Yili Wang, Mengnan Du, Hangting Ye, Yi Chang, **Xin Wang***. TAROT: Task-Adaptive Refinement of LLM-prior Graphs for Few-shot Tabular Learning. KDD, 2026.
