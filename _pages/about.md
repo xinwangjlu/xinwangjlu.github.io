@@ -18,7 +18,7 @@ I am always looking for self-motivated students. Please feel free to drop me an 
 News
 ======
 1. 2026-08: Two papers accepted by EMNLP 2026 (1 Main Conference, 1 Findings)
-2. 2026-08: One paper accepted by CIKM
+2. 2026-08: One paper accepted by CIKM 2026
 3. 2026-06: One paper accepted by TPAMI 
 4. 2026-05: One paper accepted by Knowledge-Based Systems
 5. 2026-05: One paper accepted by KDD 2026
