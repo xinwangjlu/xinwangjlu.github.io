@@ -10,6 +10,12 @@ author_profile: true
 {% endif %}
 
 ## 2026
+- Ruxue Shi, Yili Wang, Mengnan Du, Qinggang Zhang, Rui Miao, Yixin Liu, **Xin Wang***. SAIGuard: Communication-State Simulation for Proactive Defense of LLM Multi-Agent Systems. EMNLP Findings, 2026.
+
+- Jingyi He, Haiyan Zhao, Ruxue Shi, Yanguang Liu, Xin Wang, Fei Sun, Mengnan Du. SAEExplainer: Interpreting SAE Features with Activation-Guided Preference Optimization. EMNLP Main Conference, 2026.
+
+- Jiangnan Xia, Xuansheng Wu, Yu Yang, Yujun Fu, Xin Wang, Ninghao Liu. SAERec: Constructing Fine-grained Interpretable Intents Priors via Sparse Autoencoders for Recommendation. CIKM, 2026.
+
 - Xu Shen, Yixin Liu, Yili Wang, Rui Miao, Yiwei Dai, Shirui Pan, Yi Chang, **Xin Wang***. Raising the Bar in Graph OOD Generalization: Invariant Learning Beyond Explicit Environment Modeling. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.
 
 - Yan Zhou, Yili Wang, Xu Shen, Yi Chang, **Xin Wang***. NOAOM: Near-Out-Of-Distribution Awareness Optimization Module for Robust Graph OOD Detection. Knowledge-Based Systems, 2026. 
