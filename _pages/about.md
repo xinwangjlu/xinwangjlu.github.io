@@ -17,31 +17,33 @@ I am always looking for self-motivated students. Please feel free to drop me an 
 
 News
 ======
-1. 2026-06: One paper accepted by TPAMI 
-2. 2026-05: One paper accepted by Knowledge-Based Systems
-3. 2026-05: One paper accepted by KDD 2026
-4. 2026-04: Two papers accepted by ACL 2026
-5. 2026-02: One paper accepted by Neurocomputing
-6. 2026-01: One paper accepted by ICLR 2026
-7. 2025-11: One paper accepted by KDD 2026
-8. 2025-11: Two papers accepted by AAAI 2026 (2 Oral)
-9. 2025-09: Two papers accepted by ACML 2025
-10. 2025-08: Two papers accepted by EMNLP 2025 (2 Main Conference)
-11. 2025-08: One paper accepted by Neural Networks
-12. 2025-05: One paper accepted by TPAMI 
-13. 2025-04: Two papers accepted by IJCAI 2025
-14. 2025-02: One paper accepted by Neural Networks
-15. 2025-01: One paper accepted by ICLR 2025
-16. 2025-01: One paper accepted by DASFAA 2025 (Oral Presentation)
-17. 2025-01: One paper accepted by ESWA
-18. 2024-09: Two Papers accepted by EMNLP 2024 (1 Main Conference, 1 Findings)
-19. 2024-08: One paper accepted by ESWA
-20. 2024-08: One paper accepted by ICANN 2024
-21. 2024-07: One paper accepted by TKDD
-22. 2024-06: One paper accepted by ESWA
-23. 2024-05: One paper accepted by KDD Research Track 2024
-24. 2024-05: Two papers accepted by ACL 2024 (1 Main Conference, 1 Findings)
-25. 2024-05: One paper accepted by ICML 2024
+1. 2026-08: Two papers accepted by EMNLP 2026 (1 Main Conference, 1 Findings)
+2. 2026-08: One paper accepted by CIKM
+3. 2026-06: One paper accepted by TPAMI 
+4. 2026-05: One paper accepted by Knowledge-Based Systems
+5. 2026-05: One paper accepted by KDD 2026
+6. 2026-04: Two papers accepted by ACL 2026
+7. 2026-02: One paper accepted by Neurocomputing
+8. 2026-01: One paper accepted by ICLR 2026
+9. 2025-11: One paper accepted by KDD 2026
+10. 2025-11: Two papers accepted by AAAI 2026 (2 Oral)
+11. 2025-09: Two papers accepted by ACML 2025
+12. 2025-08: Two papers accepted by EMNLP 2025 (2 Main Conference)
+13. 2025-08: One paper accepted by Neural Networks
+14. 2025-05: One paper accepted by TPAMI 
+15. 2025-04: Two papers accepted by IJCAI 2025
+16. 2025-02: One paper accepted by Neural Networks
+17. 2025-01: One paper accepted by ICLR 2025
+18. 2025-01: One paper accepted by DASFAA 2025 (Oral Presentation)
+19. 2025-01: One paper accepted by ESWA
+20. 2024-09: Two Papers accepted by EMNLP 2024 (1 Main Conference, 1 Findings)
+21. 2024-08: One paper accepted by ESWA
+22. 2024-08: One paper accepted by ICANN 2024
+23. 2024-07: One paper accepted by TKDD
+24. 2024-06: One paper accepted by ESWA
+25. 2024-05: One paper accepted by KDD Research Track 2024
+26. 2024-05: Two papers accepted by ACL 2024 (1 Main Conference, 1 Findings)
+27. 2024-05: One paper accepted by ICML 2024
 
 
 
