@@ -10,9 +10,9 @@ author_profile: true
 {% endif %}
 
 ## 2026
-- Yiwei Dai, Hengyi Cai, Yili Wang, Zexu Sun, Shuaiqiang Wang, Yuchen Li, **Xin Wang***, **Yi Chang***, Dawei Yin. Tool-Integrated Reasoning via Hierarchical Multi-Agent Reinforcement Learning. NeurIPS, 2026.
+- Yiwei Dai, Hengyi Cai, Yili Wang, Zexu Sun, Shuaiqiang Wang, Yuchen Li, **Xin Wang\***, **Yi Chang\***, Dawei Yin. Tool-Integrated Reasoning via Hierarchical Multi-Agent Reinforcement Learning. NeurIPS, 2026.
 
-- Yiwei Dai, Hengyi Cai, Hui Wu, Yili Wang, Han Xu, Minlan Shao, Yuchen Li, Shuaiqiang Wang, **Xin Wang***, **Yi Chang***, Dawei Yin. Beyond Outcome Rewards: Process-Aware Optimization for Search Agents. NeurIPS, 2026.
+- Yiwei Dai, Hengyi Cai, Hui Wu, Yili Wang, Han Xu, Minlan Shao, Yuchen Li, Shuaiqiang Wang, **Xin Wang\***, **Yi Chang\***, Dawei Yin. Beyond Outcome Rewards: Process-Aware Optimization for Search Agents. NeurIPS, 2026.
 
 - Ruxue Shi, Yili Wang, Mengnan Du, Qinggang Zhang, Rui Miao, Yixin Liu, **Xin Wang***. SAIGuard: Communication-State Simulation for Proactive Defense of LLM Multi-Agent Systems. EMNLP Findings, 2026.
 
